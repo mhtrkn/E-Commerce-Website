@@ -1,8 +1,8 @@
 # Frontend Developer Çalışması
 
 ## Genel Bilgilendirme: 
-	- ✓ Yapılan çalışmaları ifade etmektedir.
-	- × Yapılamamış çalışmaları ifade etmektedir.
+- ✓ Yapılan çalışmaları ifade etmektedir.
+- × Yapılamamış çalışmaları ifade etmektedir.
 	
 ## Genel Kriterler: 
 - ✓ Çalışma içinde yapılacak save / load işlemlerinin localStorage’a kaydedilmesi gerekmektedir. 
