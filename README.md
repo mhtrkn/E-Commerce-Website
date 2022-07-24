@@ -36,8 +36,10 @@
 
 ### Anasayfa:
 
-![products-page](https://user-images.githubusercontent.com/80522648/180655547-9ba029f0-dd6e-44fc-8dda-a6e58589f130.png)
+![products-page](https://user-images.githubusercontent.com/80522648/180655748-b981ccb6-1a68-4ad3-b0cf-09c3888a34ea.png)
+
 
 ### Detay Ekranı:
 
-![detail-page](https://user-images.githubusercontent.com/80522648/180655554-f537802e-de54-4f78-86bf-2d8abd146f57.png)
+![detail-page](https://user-images.githubusercontent.com/80522648/180655750-ec8462b4-8346-4521-8ac8-256dd30e1f8d.png)
+
