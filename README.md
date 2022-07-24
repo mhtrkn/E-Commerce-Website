@@ -5,14 +5,14 @@
 - Yapılamamış çalışmaları ifade etmek için " × " kullanılmıştır.
 	
 ## Genel Kriterler: 
-✓ Çalışma içinde yapılacak save / load işlemlerinin localStorage’a kaydedilmesi gerekmektedir. 
-✓ Uygulama içerisinde en az 1 servis isteği yapılmalıdır. 
-✓ Çalışmanın görsel tasarımı için istenilen kütüphane kullanılabilir. 
-✓ Çalışma responsive design kurallarına uygun olarak yapılmalıdır. 
-✓ Yapılacak çalışmada en az 2 ayrı sayfa olmalıdır. 
-   - Ürün Liste Sayfası 
-   - Ürün Detay Sayfası 
-× Çalışma için <b>Unit</b> test yazılmalıdır. 
+- ✓ Çalışma içinde yapılacak save / load işlemlerinin localStorage’a kaydedilmesi gerekmektedir. 
+- ✓ Uygulama içerisinde en az 1 servis isteği yapılmalıdır. 
+- ✓ Çalışmanın görsel tasarımı için istenilen kütüphane kullanılabilir. 
+- ✓ Çalışma responsive design kurallarına uygun olarak yapılmalıdır. 
+- ✓ Yapılacak çalışmada en az 2 ayrı sayfa olmalıdır. 
+     - Ürün Liste Sayfası 
+     - Ürün Detay Sayfası 
+- × Çalışma için <b>Unit</b> test yazılmalıdır. 
 
 ## Çalışma için tamamlanması gereken işler: 
 ✓ Uygulama, listeleme ekranı ile başlamalıdır. 
